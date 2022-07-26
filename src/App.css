@@ -1,0 +1,125 @@
+.process-icon {
+  display: flex;
+  margin-left: auto;
+  margin-right: 14rem;
+}
+
+.process-icon i {
+  padding: 8px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.content-wrap {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.content-wrap::before {
+  position: absolute;
+  top: calc(50% - 1px);
+  right: 0;
+  left: 35%;
+  width: 30%;
+  content: "";
+  background-color: grey;
+  height: 1px;
+}
+
+.process-icon .fa.fa-truck {
+  color: white;
+}
+
+.button-details button {
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  padding: 8px;
+  width: 8rem;
+}
+
+.form-control {
+  padding: 0.8rem;
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+  width: 14rem;
+  margin-left: 2rem;
+}
+
+.cart-title {
+  margin-right: 18rem;
+}
+
+.cart1 .img {
+  margin-right: 1rem;
+}
+
+.charge {
+  margin-left: 4rem;
+}
+
+.costbtn {
+  margin-left: 3.6rem;
+  margin-top: 2rem;
+  padding: 15px;
+  width: 250px;
+  border: none;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+.costbtn span {
+  margin-left: 4rem;
+}
+
+.truck-btn {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.btn.shop {
+  margin-right: 12px;
+  width: 10rem;
+  font-size: 15px;
+  height: 50px;
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+  border: 1px solid black;
+}
+
+.btn.shop1{
+  margin-right: 12px;
+  width: 10rem;
+  font-size: 15px;
+  height: 50px;
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+  
+}
+
+.btn.shop1 a{
+  text-decoration: none;
+  color: #fff;
+}

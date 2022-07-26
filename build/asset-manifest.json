@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Payment-Page/static/css/main.2557fbc7.css",
+    "main.js": "/Payment-Page/static/js/main.2ab6c936.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Payment-Page/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Payment-Page/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Payment-Page/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Payment-Page/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Payment-Page/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/dhl.jpg": "/Payment-Page/static/media/dhl.9060d0f76bcf3a6e7c39.jpg",
+    "static/media/paypal.png": "/Payment-Page/static/media/paypal.d67940529a5a95b14e5c.png",
+    "index.html": "/Payment-Page/index.html",
+    "main.2557fbc7.css.map": "/Payment-Page/static/css/main.2557fbc7.css.map",
+    "main.2ab6c936.js.map": "/Payment-Page/static/js/main.2ab6c936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2557fbc7.css",
+    "static/js/main.2ab6c936.js"
+  ]
+}
